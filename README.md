@@ -1,5 +1,4 @@
 # 💫 I am Ry Satya
-A full stack mobile developer<br>
 
 
 ## 🌐 Socials:
